@@ -1,0 +1,14 @@
+persistencias\EmpleadoJpaController.class
+logica\Empleado_.class
+com\mycompany\panamamericanas_sas_web\servlets\svLogin.class
+com\mycompany\panamamericanas_sas_web\servlets\svEditar.class
+com\mycompany\panamericanas_sas_web\resources\JavaEE8Resource.class
+persistencias\ControladoraPersistencias.class
+com\mycompany\panamamericanas_sas_web\servlets\svUsuarios.class
+persistencias\exceptions\IllegalOrphanException.class
+com\mycompany\panamamericanas_sas_web\servlets\svEliminar.class
+com\mycompany\panamericanas_sas_web\JAXRSConfiguration.class
+logica\Controladora.class
+logica\Empleado.class
+persistencias\exceptions\PreexistingEntityException.class
+persistencias\exceptions\NonexistentEntityException.class
